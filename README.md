@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Welcome! I'm Luís Mártires 👋</b></h1>
+  <h1 align="center"><b>Hello! I'm Luís Mártires 👋</b></h1>
 </p>
 
 <h3 align="center"><b>A Full-Stack Web Developer Student from Lisbon</b></h3>
