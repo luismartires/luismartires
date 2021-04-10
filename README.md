@@ -12,7 +12,7 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/luismartires/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:luis.martires@outlook.pt?subject=Hey%20Luís"><img src="https://img.shields.io/badge/outlook-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/></a>&nbsp;
+<a href="mailto:luis.martires@outlook.pt?subject=Hey%20Luís"><img src="https://img.shields.io/badge/hotmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/></a>&nbsp;
 <br>
 
 ## Languages and Tools: 
