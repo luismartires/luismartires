@@ -15,7 +15,9 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/css3%20-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
@@ -24,7 +26,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+  
 </p>
 
