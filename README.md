@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 📚 I'm currently studying in Ironhack
+- 📚 I'm currently studying in Ironhack 
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/luismartires/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
