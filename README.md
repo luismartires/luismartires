@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello! I'm Luís Mártires 👋</b></h1>
 </p>
 
-<h3 align="center"><b>A Full-Stack Web Developer Student from Lisbon</b></h3>
+<h3 align="center"><b>A Junior Full-Stack Web Developer from Lisbon</b></h3>
 <br>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
