@@ -14,7 +14,7 @@
 <a href="mailto:luis.martires@outlook.pt?subject=Hey%20Luís%20Mártires"><img src="https://img.shields.io/badge/hotmail-%2343853D.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/></a>&nbsp;
 <br>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
   
