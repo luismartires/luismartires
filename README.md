@@ -7,8 +7,6 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔍 I'm currently looking for an opportunity to start my career as a Full-Stack Web Developer! 
-
 ### Connect with me:
 <a href="https://www.linkedin.com/in/luismartires/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:luis.martires@outlook.pt?subject=Hey%20Luís%20Mártires"><img src="https://img.shields.io/badge/hotmail-%2343853D.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Outlook"/></a>&nbsp;
